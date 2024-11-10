@@ -1,0 +1,31 @@
+body {
+    font-family:Baskerville, Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: white;
+    color: rgb(16, 138, 18);
+}
+
+h2 {
+    color: rgb(151, 201, 80);
+}
+
+section {
+    background-color:  rgb(255, 251, 209);
+}
+
+img {
+    width: 32%;
+    height: auto;
+    filter: opacity(30%);
+}
+
+a:hover img {
+    filter: opacity(100%);
+}
+
+a{
+    text-decoration-line: none;
+    outline: none;
+}
